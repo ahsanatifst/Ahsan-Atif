@@ -11,14 +11,14 @@ export const OWNER_INFO = {
   tagline: "Helping Brands Grow Through Strategic Digital Marketing",
   shortBio: "I am a performance-driven Digital Marketer & Social Media Strategist specializing in building high-ROI organic systems, premium advertising, laser-targeted lead generation, and cohesive social growth strategies that turn attention into recurring revenue.",
   personalImage: "https://dev-newsiteeeee.pantheonsite.io/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-21-at-12.30.31-AM.jpeg",
-  email: "ahsanatif.st@gmail.com",
-  phone: "+8801700000000", // Representative premium portfolio layout
+  email: "ahsanatif.work@gmail.com",
+  phone: "+8801936231615", // Representative premium portfolio layout
   location: "Dhaka, Bangladesh",
-  whatsapp: "https://wa.me/8801700000000",
+  whatsapp: "https://wa.me/8801936231615",
   socials: {
-    linkedin: "https://linkedin.com",
-    facebook: "https://facebook.com",
-    instagram: "https://instagram.com",
+    linkedin: "https://www.linkedin.com/in/md-ahsan-atif?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bv5xKnJtkSSaR93Q8r6ngdQ%3D%3D",
+    facebook: "https://www.facebook.com/share/18sCkN8Gcs/",
+    instagram: "https://www.instagram.com/atif__forever?igsh=MWh3MmRiZ2NkYnNjaw==",
     twitter: "https://twitter.com"
   }
 };

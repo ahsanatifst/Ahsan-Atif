@@ -15,6 +15,7 @@ import Portfolio from "./components/Portfolio";
 import Testimonials from "./components/Testimonials";
 import Contact from "./components/Contact";
 import Footer from "./components/Footer";
+import { OWNER_INFO } from "./data";
 
 export default function App() {
   const [activeSection, setActiveSection] = useState<string>("home");
@@ -162,7 +163,7 @@ export default function App() {
             initial={{ scale: 0, opacity: 0 }}
             animate={{ scale: 1, opacity: 1 }}
             transition={{ delay: 1.5, type: "spring", stiffness: 260, damping: 20 }}
-            href="https:wa.me/8801700000000"
+            href={OWNER_INFO.whatsapp}
             target="_blank"
             rel="noopener noreferrer"
             title="Chat on WhatsApp"
