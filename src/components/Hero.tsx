@@ -61,15 +61,15 @@ export default function Hero() {
             {/* Main Luxury Headline */}
             <motion.h1
               variants={itemVariants}
-              className="text-4xl sm:text-5xl lg:text-[3.75rem] font-extrabold tracking-tight text-brand-dark leading-[1.12]"
+              className="font-extrabold tracking-tight text-brand-dark leading-none"
             >
-              <span className="font-serif-lux block font-medium italic text-slate-800 tracking-tight">
+              <span className="font-serif-lux block font-medium italic text-[#ff0d3c] tracking-tight text-3xl sm:text-5xl lg:text-[64px] leading-tight">
                 Helping Premium Brands
               </span>
-              <span className="block mt-1.5">
+              <span className="block mt-1.5 text-2xl sm:text-3xl lg:text-[29px] leading-snug">
                 Grow Through <span className="text-brand-orange relative inline-block">Strategic</span>
               </span>
-              <span className="block mt-1.5 font-serif-lux font-black tracking-tight text-brand-dark">
+              <span className="block mt-1.5 font-serif-lux font-black tracking-tight text-brand-dark text-4xl sm:text-5xl lg:text-[70px] leading-tight">
                 Digital Marketing.
               </span>
             </motion.h1>
